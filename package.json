@@ -1,0 +1,21 @@
+{
+  "name": "implantacao-em-producao",
+  "version": "1.0.0",
+  "description": "Sistema de gestão de **cardápio e pedidos da cantina escolar**, implantado em produção com **Docker**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniokauetesta/implantacao-em-producao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/antoniokauetesta/implantacao-em-producao/issues"
+  },
+  "homepage": "https://github.com/antoniokauetesta/implantacao-em-producao#readme"
+}
